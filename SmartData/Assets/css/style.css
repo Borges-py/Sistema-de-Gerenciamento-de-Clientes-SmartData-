@@ -31,7 +31,6 @@ nav a:hover {
     color: #3498db;
 }
 
-/* Container Principal */
 .container {
     max-width: 900px;
     margin: 50px auto;
@@ -41,7 +40,6 @@ nav a:hover {
     box-shadow: 0 4px 15px rgba(0,0,0,0.05);
 }
 
-/* Botões Modernos */
 .btn {
     padding: 10px 20px;
     border: none;
@@ -62,7 +60,6 @@ nav a:hover {
 .btn-success { background-color: #27ae60; color: white; }
 .btn-success:hover { background-color: #219150; }
 
-/* Estilos para o Hub de Opções */
 .card-link {
     text-decoration: none;
     color: inherit;
@@ -97,7 +94,6 @@ nav a:hover {
     background-color: #fff5f5;
 }
 
-/* Estilo dos Formulários */
 .form-group {
     margin-bottom: 20px;
     text-align: left;
