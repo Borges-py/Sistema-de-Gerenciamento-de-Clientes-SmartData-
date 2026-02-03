@@ -13,3 +13,5 @@ Banco de Dados: MySQL.
 Arquitetura: MVC (Model-View-Controller).
 
 Interface: HTML5, CSS3 e SweetAlert2 para notificações dinâmicas.
+
+O login padrão é: admin/123
